@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="round_robin_arbiter.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="10.429825"
+     inkscape:cy="14.495689"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.489849,5.0113361 V 16.569186 H 26.452511 V 4.4659004 l -10.963462,0.021651 8e-4,0.5237846"
+       id="path1577"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 11.477113,6.4892983 h 4.015274"
+       id="path2619" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 11.700324,15.515815 h 3.776504"
+       id="path2621" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 26.597774,5.3946586 h 3.550007"
+       id="path2623" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 14.48443,5.7722999 13.652636,7.1373494"
+       id="path2625" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 28.877246,4.9635539 -0.574825,0.821617"
+       id="path2629" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 41.063651,24.279633 h 7.519337 v -7.807055 h -7.441055 z"
+       id="path2824"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:0.79375px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
+       x="43.801987"
+       y="20.547295"
+       id="text4078"><tspan
+         sodipodi:role="line"
+         id="tspan4076"
+         style="font-size:0.79375px;stroke-width:0.264583"
+         x="43.801987"
+         y="20.547295">Slave</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.13229167;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 48.661438,22.631512 h 3.510349 v 4.037974 H 10.938453 V 15.515375 l 0.762905,4.42e-4"
+       id="path9789"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 30.147781,5.3946586 h 4.0953 V 18.500001 h 6.753677"
+       id="path10451" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.05833px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
+       x="14.04936"
+       y="5.5523496"
+       id="text14173"><tspan
+         sodipodi:role="line"
+         id="tspan14171"
+         style="font-size:1.05833px;stroke-width:0.264583"
+         x="14.04936"
+         y="5.5523496">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.05833px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
+       x="12.10796"
+       y="15.182939"
+       id="text20073"><tspan
+         sodipodi:role="line"
+         id="tspan20071"
+         style="font-size:1.05833px;stroke-width:0.264583"
+         x="12.10796"
+         y="15.182939">done</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.05833px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
+       x="28.409021"
+       y="4.5620246"
+       id="text22937"><tspan
+         sodipodi:role="line"
+         id="tspan22935"
+         style="font-size:1.05833px;stroke-width:0.264583"
+         x="28.409021"
+         y="4.5620246">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.05833px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
+       x="10.81993"
+       y="8.05019"
+       id="text27121"><tspan
+         sodipodi:role="line"
+         id="tspan27119"
+         style="font-size:1.05833px;stroke-width:0.264583"
+         x="10.81993"
+         y="8.05019">Request</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.05833px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
+       x="27.329821"
+       y="6.890996"
+       id="text29916"><tspan
+         sodipodi:role="line"
+         id="tspan29914"
+         style="font-size:1.05833px;stroke-width:0.264583"
+         x="27.329821"
+         y="6.890996">Grant</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.05833px;line-height:1.25;font-family:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="20.820589"
+       y="10.06951"
+       id="text32777"><tspan
+         sodipodi:role="line"
+         id="tspan32775"
+         style="font-size:1.05833px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="20.820589"
+         y="10.06951">Round robin</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.05833px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="20.820589"
+         y="11.392423"
+         id="tspan36191">Arbiter</tspan></text>
+  </g>
+</svg>
